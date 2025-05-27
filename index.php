@@ -2,5 +2,6 @@
 $server="localhost";
 $username="root";
 $password="";
-echo "youcef";
+echo "youcef ";
+echo " It's working!";
 ?>
